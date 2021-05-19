@@ -15,4 +15,5 @@
 - 🌍 I have lived in Norway 🇳🇴, Germany 🇩🇪, and Romania 🇷🇴. 
 - 👩🏽‍💻 I started coding at age 11.
 - 🏔 I'm an avid hiker 🥾
-- I am a huge Nine inch Nails fan!<a href="https://www.logosurfer.com/wp-content/uploads/2018/03/nine-inch-nails-logo_0.png" target="_blank"><img height="50px" src="https://www.logosurfer.com/wp-content/uploads/2018/03/nine-inch-nails-logo_0.png"  alt="Nine Inch Nails Logo" /></a> 
+- I am a huge Nine inch Nails fan! <br/>
+- <a href="https://www.logosurfer.com/wp-content/uploads/2018/03/nine-inch-nails-logo_0.png" target="_blank"><img style="color:white;" height="50px" src="https://www.logosurfer.com/wp-content/uploads/2018/03/nine-inch-nails-logo_0.png"  alt="Nine Inch Nails Logo"/></a> 
