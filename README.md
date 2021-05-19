@@ -16,4 +16,9 @@
 - 🌍 I have lived in Norway 🇳🇴, Germany 🇩🇪, and Romania 🇷🇴. 
 - 👩🏽‍💻 I started coding at age 11.
 - 🏔 I'm an avid hiker 🥾
+<<<<<<< HEAD
 -  I am huge indie rock fan! Check out my playlist! <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/828682676&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/upper-lefty" title="upper-lefty" target="_blank" style="color: #cccccc; text-decoration: none;">upper-lefty</a> · <a href="https://soundcloud.com/upper-lefty/sets/sub_pop-vs-indie-rock" title="SUB_POP VS INDIE ROCK" target="_blank" style="color: #cccccc; text-decoration: none;">SUB_POP VS INDIE ROCK</a></div>
+=======
+- I am a huge Nine inch Nails fan! <br/>
+- <a href="https://www.logosurfer.com/wp-content/uploads/2018/03/nine-inch-nails-logo_0.png" target="_blank"><img style="color:white;" height="50px" src="https://www.logosurfer.com/wp-content/uploads/2018/03/nine-inch-nails-logo_0.png"  alt="Nine Inch Nails Logo"/></a> 
+>>>>>>> 5c7b735bb555d365ec87392c9700b5fbd5fd4f0e
