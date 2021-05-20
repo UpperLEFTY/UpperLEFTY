@@ -25,7 +25,7 @@
 
 <img height="50px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/>
 
-<img height="50px" src="./images/nodejs-best.svg" alt="NodeJS logo"/>
+<img height="50px" src="./images/nodejs.svg" alt="NodeJS logo"/>
 
 <img height="50px" src="./images/tailwindcss.svg" alt="Tailwindcss logo"/>
 
