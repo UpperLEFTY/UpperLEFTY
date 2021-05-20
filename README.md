@@ -1,7 +1,7 @@
 # Hi, I'm **Essence!**<br/> I'm a Senior Software Engineer!<br/>I love to inspire others
 
 🚀 📚 I'm currently learning Golang
-👉🏾 <img height="50px" src="./images/go.svg" alt="Go logo"/><br/>
+👉🏾 <img height="70px" src="./images/go.svg" alt="Go logo"/><br/>
 
 💻 [https://upper-lefty.com](https://upper-lefty.com/)<br/>
 
@@ -17,11 +17,21 @@
 
 <img height="50px" src="./images/react.svg" alt="ReactJS logo"/> 
 
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo"/>
+<img height="50px" src="./images/redux.svg" alt="Redux logo"/>
 
-<img height="50px" src="./images/typescript.svg" alt="typescript logo"/>
+<img height="50px" src="./images/javascript.svg" alt="Javascript logo"/>
 
-<img height="50px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/><img height="70px" src="./images/node-js.svg" alt="NodeJS logo"/>
+<img height="50px" src="./images/typescript.svg" alt="Typescript logo"/>
+
+<img height="50px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/>
+
+<img height="50px" src="./images/nodejs-best.svg" alt="NodeJS logo"/>
+
+<img height="50px" src="./images/tailwindcss.svg" alt="Tailwindcss logo"/>
+
+<img height="50px" src="./images/jest.svg" alt="Jest logo"/>
+
+<img height="50px" src="./images/cypress.svg" alt="Cypress logo"/>
 
 </div>
 
