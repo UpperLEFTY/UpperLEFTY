@@ -30,7 +30,8 @@
 
 <img height="50px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/>
 
-<img height="50px" src="./images/nodejs-new-pantone-white.svg" alt="NodeJS logo"/>
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS logo"/> 
+
 
 <img height="50px" src="./images/tailwindcss.svg" alt="Tailwindcss logo"/>
 
