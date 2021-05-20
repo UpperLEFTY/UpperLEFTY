@@ -19,7 +19,7 @@
 
 <img height="50px" src="./images/redux.svg" alt="Redux logo"/>
 
-<img height="50px" src="./images/javascript.svg" alt="Javascript logo"/>
+<img height="50px" src="./images/logo-javascript.svg" alt="Javascript logo"/>
 
 <img height="50px" src="./images/typescript.svg" alt="Typescript logo"/>
 
