@@ -36,8 +36,6 @@
 
 <img height="50px" src="./images/jest.svg" alt="Jest logo"/>
 
-<img height="50px" src="./images/docker.svg" alt="Docker logo"/>
-
 </div>
 
 ## ⚡ Fun facts about me
