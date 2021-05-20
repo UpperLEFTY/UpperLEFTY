@@ -13,7 +13,7 @@
 
 ## Favorite site on the web
 
-👉🏾[Reddit](https://www.reddit.com/)
+👉🏾 [Reddit](https://www.reddit.com/)
 <img height="50px" src="./images/reddit-logo-new.svg" alt="Reddit logo"/>
 
 ## 👩🏽‍💻 Favorite tools
