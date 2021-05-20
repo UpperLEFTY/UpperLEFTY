@@ -41,7 +41,7 @@
 
 ## ⚡ Fun facts about me
 
-- 🌍 I have lived in Norway 🇳🇴, Germany 🇩🇪, and Romania 🇷🇴.
+- 🌍 I used live in Norway 🇳🇴, Germany 🇩🇪, and Romania 🇷🇴.
 - 👩🏽‍💻 I started coding at age 11.
 - 🏔 I'm an avid hiker 🥾
 - 🛫🛬 I love airplanes.
