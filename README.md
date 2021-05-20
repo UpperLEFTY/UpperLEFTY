@@ -11,6 +11,11 @@
 
 <img height="50px" src="./images/linkedin.svg" alt="Linkedin logo"/> 
 
+## Favorite site on the web
+
+👉🏾[Reddit](https://www.reddit.com/)
+<img height="50px" src="./images/reddit-logo-new.svg" alt="Reddit logo"/>
+
 ## 👩🏽‍💻 Favorite tools
 
 <div align="center">
@@ -31,7 +36,7 @@
 
 <img height="50px" src="./images/jest.svg" alt="Jest logo"/>
 
-<img height="50px" src="./images/cypress.svg" alt="Cypress logo"/>
+<img height="50px" src="./images/docker.svg" alt="Docker logo"/>
 
 </div>
 
