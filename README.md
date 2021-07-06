@@ -5,7 +5,7 @@
 
 💻 [https://upper-lefty.com](https://upper-lefty.com/)<br/>
 
-## Add me on Linkedin  
+## Add me on LinkedIn  
 
 👉🏾 [LinkedIn](https://www.linkedin.com/in/upper-lefty/)<br/>
 
