@@ -3,7 +3,7 @@
 🚀 📚 I'm currently learning Golang
 👉🏾 <img height="70px" src="./images/go.svg" alt="Go logo"/><br/>
 
-💻 [https://upper-lefty.com](https://upper-lefty.com/)<br/>
+💻 [new site coming soon](https://upper-lefty.com/)<br/>
 
 ## Add me on LinkedIn  
 
