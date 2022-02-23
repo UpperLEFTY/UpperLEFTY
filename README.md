@@ -1,4 +1,4 @@
-# Hi, I'm **Essence!**<br/> I'm pretty 💀 inside <br/>
+# Hi, I'm **Essence!**<br/>Currently 🌵 ☀️ <br/>
 
 🚀 📚 I'm currently learning Golang
 👉🏾 <img height="70px" src="./images/go.svg" alt="Go logo"/><br/>
