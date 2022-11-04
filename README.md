@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img height="50px" src="./images/kotlin_Icon.svg" alt=Kotlin logo"/>
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin logo"/>
 
 <img height="50px" src="./images/react.svg" alt="ReactJS logo"/> 
 
