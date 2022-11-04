@@ -1,9 +1,9 @@
-# Hi, I'm Essence!
+# Hi, I'm Essence! 👋🏾
 
-🚀 📚 I'm currently learning Golang
+🚀 📚 I taught myself Golang
 👉🏾 <img height="70px" src="./images/go.svg" alt="Go logo"/><br/>
 
-💻 [new site coming soon](https://upper-lefty.com/)<br/>
+💻 I love learning <br/>
 
 ## Add me on LinkedIn  
 
@@ -19,6 +19,8 @@
 ## 👩🏽‍💻 Favorite Tech
 
 <div align="center">
+
+<img height="50px" src="./images/kotlin_Icon.svg" alt=Kotlin logo"/>
 
 <img height="50px" src="./images/react.svg" alt="ReactJS logo"/> 
 
@@ -46,3 +48,4 @@
 - 🏔 I'm an avid hiker 🥾
 - 🛫🛬 I love airplanes.
 - 🎶 I'm a huge indie rock fan! Check out my playlist! 👉🏾 [SUB_POP VS INDIE ROCK](https://soundcloud.com/upper-lefty/sets/sub_pop-vs-indie-rock)
+- 👽 “The most interesting people you’ll find are ones that don’t fit into your average box.” -Dr. Temple Grandin
