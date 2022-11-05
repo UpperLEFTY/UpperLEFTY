@@ -15,7 +15,7 @@
 
 ## 👩🏽‍💻 Favorite Tech
 
-<div align="center">
+<div align="left">
 
 <img height="70px" src="./images/go.svg" alt="Go logo"/>
 
