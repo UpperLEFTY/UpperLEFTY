@@ -1,9 +1,6 @@
 # Hi, I'm Essence! 👋🏾
 
-🚀 📚 I taught myself Golang
-👉🏾 <img height="70px" src="./images/go.svg" alt="Go logo"/><br/>
-
-💻 I love learning <br/>
+👉🏾 🚀 📚 💻 ⚡ <br/>
 
 ## Add me on LinkedIn  
 
@@ -19,6 +16,8 @@
 ## 👩🏽‍💻 Favorite Tech
 
 <div align="center">
+
+ <img height="70px" src="./images/go.svg" alt="Go logo"/>
 
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin logo"/>
 
@@ -41,11 +40,11 @@
 
 </div>
 
-## ⚡ Fun facts about me
+## ⚡ Fun facts about me ⚡
 
 - 🌍 I used live in Norway 🇳🇴, Germany 🇩🇪, and Romania 🇷🇴.
 - 👩🏽‍💻 I started coding at age 11.
-- 🏔 I'm an avid hiker 🥾
+- 🏔 I'm an avid hiker.🥾 
 - 🛫🛬 I love airplanes.
 - 🎶 I'm a huge indie rock fan! Check out my playlist! 👉🏾 [SUB_POP VS INDIE ROCK](https://soundcloud.com/upper-lefty/sets/sub_pop-vs-indie-rock)
 - 👽 “The most interesting people you’ll find are ones that don’t fit into your average box.” -Dr. Temple Grandin
