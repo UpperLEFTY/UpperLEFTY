@@ -6,12 +6,12 @@
 
 👉🏾 [LinkedIn](https://www.linkedin.com/in/upper-lefty/)<br/>
 
- - <img height="50px" src="./images/linkedin.svg" alt="Linkedin logo"/> 
+<img height="50px" src="./images/linkedin.svg" alt="Linkedin logo"/> 
 
 ## Favorite site on the web
 
 👉🏾 [Reddit](https://www.reddit.com/)
- - <img height="50px" src="./images/reddit-logo-new.svg" alt="Reddit logo"/>
+<img height="50px" src="./images/reddit-logo-new.svg" alt="Reddit logo"/>
 
 ## 👩🏽‍💻 Favorite Tech
 
