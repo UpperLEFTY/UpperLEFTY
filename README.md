@@ -6,18 +6,18 @@
 
 👉🏾 [LinkedIn](https://www.linkedin.com/in/upper-lefty/)<br/>
 
-<img height="50px" src="./images/linkedin.svg" alt="Linkedin logo"/> 
+ - <img height="50px" src="./images/linkedin.svg" alt="Linkedin logo"/> 
 
 ## Favorite site on the web
 
-👉🏾 [Reddit](https://www.reddit.com/)
-<img height="50px" src="./images/reddit-logo-new.svg" alt="Reddit logo"/>
+👉🏾 [Reddit]
+ - <img height="50px" src="./images/reddit-logo-new.svg" alt="Reddit logo"/>
 
 ## 👩🏽‍💻 Favorite Tech
 
 <div align="center">
 
- <img height="70px" src="./images/go.svg" alt="Go logo"/>
+<img height="70px" src="./images/go.svg" alt="Go logo"/>
 
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin logo"/>
 
