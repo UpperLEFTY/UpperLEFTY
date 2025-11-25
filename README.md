@@ -19,8 +19,6 @@
 
 <img height="70px" src="./images/go.svg" alt="Go logo"/>
 
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin logo"/>
-
 <img height="50px" src="./images/react.svg" alt="ReactJS logo"/> 
 
 <img height="50px" src="./images/redux.svg" alt="Redux logo"/>
