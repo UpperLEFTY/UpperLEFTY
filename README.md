@@ -23,7 +23,7 @@
 
 <img height="50px" src="./images/redux.svg" alt="Redux logo"/>
 
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo"/> 
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo"/> 
 
 <img height="50px" src="./images/typescript.svg" alt="Typescript logo"/>
 
